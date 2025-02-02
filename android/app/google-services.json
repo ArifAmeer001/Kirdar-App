@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159800055365",
+    "project_id": "fyp-v1-login",
+    "storage_bucket": "fyp-v1-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159800055365:android:8b7450931b2a46fe80752c",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aIcnpZGSW8_X8xKiIZb3tZXGH0QqJqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
